@@ -1,1 +1,2 @@
-created form git
+created from git
+created from git
